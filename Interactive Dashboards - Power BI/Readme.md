@@ -1,6 +1,6 @@
-# Power BI project on data Kaggle regarding US Car Accidents
+# Power BI project with data obtained from Kaggle regarding US Car Accidents
 
-==============================================================
+==============================================================================
 
 URL https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
@@ -13,18 +13,20 @@ Project associated with Big Blue Data Science Bootcamp - Aprli 2024. Duration: 1
 # Project Organization
 
 ├── **README.md  **         <- The top-level README for navigating this project.
-│	
+|	
 ├── **data  **              <- The original data from Kaggle sliced for yrs 2016 - 2021 for LA
-│  
+|  
 ├── **cleaning **           <- Jupyter notebooks with Data Transformations and manipulation
 |
 ├── **analysis**            <- Dashboard in pdf
-│
+|
 └── **Dashboard**          <-  Power BI pbix files 
 
 
 # Participants
+
 ├── Katerina Psallida
+|
 └── Kostas Tsagkaropoulos
 
 

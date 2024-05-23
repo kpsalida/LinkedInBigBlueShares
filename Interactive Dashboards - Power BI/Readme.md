@@ -1,27 +1,30 @@
-Power BI project on data Kaggle regarding US Car Accidents
+# Power BI project on data Kaggle regarding US Car Accidents
 
 ==============================================================
 
 URL https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
-We addressed the needs of the City of Los Angeles in identifying factors that are affecting car accidents.
-Parameters involved time factors, weather factors and characteristics of the area (junctions, bumps, stops etc.)
+**We addressed the needs of the City of Los Angeles in identifying factors that are affecting car accidents.
+Parameters involved time factors, weather factors and characteristics of the area (junctions, bumps, stops etc.**)
 
 Project associated with Big Blue Data Science Bootcamp - Aprli 2024. Duration: 1 day
 
 
-Project Organization
-├── README.md           <- The top-level README for navigating this project.
+# Project Organization
+
+├── **README.md  **         <- The top-level README for navigating this project.
 │	
-├── data                <- The original data from Kaggle sliced for yrs 2016 - 2021 for LA
+├── **data  **              <- The original data from Kaggle sliced for yrs 2016 - 2021 for LA
 │  
-├── cleaning            <- Jupyter notebooks with Data Transformations and manipulation
+├── **cleaning **           <- Jupyter notebooks with Data Transformations and manipulation
 |
-├── analysis            <- Dashboard in pdf
+├── **analysis**            <- Dashboard in pdf
 │
-└── Dashboard          <-  Power BI pbix files 
+└── **Dashboard**          <-  Power BI pbix files 
 
 
-Participants
+# Participants
 ├── Katerina Psallida
 └── Kostas Tsagkaropoulos
+
+

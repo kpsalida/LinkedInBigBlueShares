@@ -4,7 +4,7 @@
 
 URL 
 
-We role-played being a consulting company aiming to identify opportunities for Netflix to expand their customer base by identifying the best rated gernes, production countries, actors and directors.
+We role-played being a consulting company aiming to unlock opportunities for Netflix in order to expand their customer base by identifying the best rated gernes, production countries, actors and directors.
 
 Project associated with Big Blue Data Science Bootcamp - Aprli 2024. Duration: 1 day
 
